@@ -9,11 +9,14 @@ This repository showcases my learning and project work completed during the Apex
 - Introduction to data analytics.
 - Understanding datasets and analytical workflows.
 
+  [View Task 1 Project](https://github.com/brundhajala/apexplanet-data-analytics-task1)
+
 ### Task 2 – Data Cleaning and Exploratory Data Analysis
 - Data preprocessing and cleaning.
 - Exploratory data analysis.
 - Identifying patterns and insights.
 
+[View Task 2 Project](https://github.com/brundhajala/apexplanet-data-analytics-task2)
 ### Task 3 – Interactive Sales Dashboard
 - Developed an interactive dashboard using Streamlit.
 - Added filters for city, category, and customer segment.
